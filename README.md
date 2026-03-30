@@ -10,9 +10,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sujay239&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 
+
 ![](https://streak-stats.demolab.com?user=Sujay239&theme=gruvbox&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujay239&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Sujay239&show_icons=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sujay239&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -21,9 +24,36 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sujay239&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 👤 Personal Projects
+## 🚀 Personal Projects
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sujay239&repo=TruthLens-AI&theme=gruvbox" />
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sujay239&repo=Office-management-railway-deployment&theme=gruvbox" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sujay239&repo=Auto-computaion-office-management-frontend&theme=gruvbox" />
+</p>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sujay239&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🏢 Organization Projects
+![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=auto-computation&repo=Office-management-inventory&theme=gruvbox)
+
+![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sujay239&repo=NerveSpa-Chatbot&theme=gruvbox)
+
+**Invoice Management System**  
+Worked on billing & invoice workflows under auto-computation organization  
+
+🔒 Private Repository (cannot be displayed publicly)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
