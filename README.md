@@ -26,7 +26,6 @@
 ### 🔝 Top Contributed Repo
 
 ### 👤 Personal Projects
-## 🚀 Personal Projects
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sujay239&repo=TruthLens-AI&theme=gruvbox" />
