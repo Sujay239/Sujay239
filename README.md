@@ -1,58 +1,483 @@
-# 💫 About Me:
-👋 Hi there! I'm Sujay — a passionate Full Stack Developer who loves building scalable and impactful web applications.<br><br>🚀 Currently working at **Auto Computation** (till Nov 2025), where I focus on developing efficient, real-world solutions across both frontend and backend.<br><br>💡 I enjoy turning complex problems into simple, elegant solutions and continuously improving my skills in modern web technologies.<br><br>🌱 Always learning, always building — whether it's exploring new frameworks or optimizing performance.<br><br>🤝 Open to collaboration on exciting projects, especially those involving full-stack development, automation, or innovative ideas.<br><br>⚡ Fun fact: I love experimenting with new tech stacks and pushing my limits with every project!
+<!-- =========================================================
+     SUJAY239 - GITHUB PROFILE README
+========================================================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sujay.kotal.16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay-kumar-kotal-5b9817282) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sanatkotal12309) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Substantial-Bath3633) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32551688) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@R4HGaming5) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/SUJAY-KOTAL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sujaykumarkotal8520@gmail.com) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sujaykumarai55?tab=activity) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/sujaykumarkotal8520/) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sujaykumarkotal1)
+# 👋 Hi, I'm Sujay
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![n8n Automation](https://img.shields.io/badge/n8n-Automation-%2300BFA6.svg?style=for-the-badge&logo=n8n&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sujay239&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+### Full Stack Developer • Backend Developer • Automation Enthusiast
 
-
-![](https://streak-stats.demolab.com?user=Sujay239&theme=gruvbox&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujay239&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Sujay239&show_icons=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sujay239&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-### 👤 Personal Projects
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sujay239&repo=TruthLens-AI&theme=gruvbox" />
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sujay239&repo=Office-management-railway-deployment&theme=gruvbox" />
+<p>
+  I build scalable, performant and practical web applications using modern frontend,
+  backend, database and DevOps technologies.
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sujay239&repo=Auto-computaion-office-management-frontend&theme=gruvbox" />
+<p>
+  <a href="https://github.com/Sujay239">
+    <img src="https://img.shields.io/badge/GitHub-Sujay239-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/sujay-kumar-kotal-5b9817282">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:Sujaykumarkotal8520@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
+</div>
 
 ---
 
-### 🏢 Organization Projects
-![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=auto-computation&repo=Office-management-inventory&theme=gruvbox)
+## 🚀 Quick Navigation
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sujay239&repo=NerveSpa-Chatbot&theme=gruvbox)
+<div align="center">
 
-**Invoice Management System**  
-Worked on billing & invoice workflows under auto-computation organization  
+[![About](https://img.shields.io/badge/ABOUT%20ME-6C63FF?style=for-the-badge)](#-about-me)
+[![Tech](https://img.shields.io/badge/TECH%20STACK-0A66C2?style=for-the-badge)](#-tech-stack)
+[![Projects](https://img.shields.io/badge/PROJECTS-238636?style=for-the-badge)](#-featured-projects)
+[![Socials](https://img.shields.io/badge/CONNECT-D14836?style=for-the-badge)](#-connect-with-me)
 
-🔒 Private Repository (cannot be displayed publicly)
+</div>
+
+---
+
+# 💫 About Me
+
+👋 I'm **Sujay**, a passionate **Full Stack Developer** who enjoys building scalable and impactful web applications.
+
+🚀 I previously worked at **Auto Computation**, where I contributed to real-world frontend, backend, automation and business application projects.
+
+💡 I enjoy converting complex requirements into simple, maintainable and practical software solutions.
+
+🌱 I'm constantly learning new frameworks, backend architectures, databases, deployment platforms and automation technologies.
+
+🤝 I'm open to collaboration on projects involving:
+
+- Full Stack Development
+- Backend Development
+- React Applications
+- Node.js Applications
+- Java & Spring
+- Automation
+- REST APIs
+- Database-driven applications
+- AI-powered applications
+
+⚡ I enjoy experimenting with new technologies and improving existing systems for better performance and usability.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sujay.kotal.16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay-kumar-kotal-5b9817282)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@R4HGaming5)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SUJAY-KOTAL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sujaykumarkotal8520/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sujaykumarkotal1)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32551688)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sujaykumarai55?tab=activity)
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<details open>
+<summary><b>👨‍💻 Programming Languages</b></summary>
+
+<br>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+</details>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+
+</details>
 
 
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+</details>
+
+
+<details>
+<summary><b>🗄️ Databases & Caching</b></summary>
+
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</details>
+
+
+<details>
+<summary><b>☁️ Deployment & DevOps</b></summary>
+
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+
+</details>
+
+
+<details>
+<summary><b>🛠 Development Tools</b></summary>
+
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+</details>
+
+---
+
+# 🔥 GitHub Activity
+
+<div align="center">
+
+[![GitHub Profile](https://img.shields.io/badge/View%20GitHub%20Profile-Sujay239-181717?style=for-the-badge&logo=github)](https://github.com/Sujay239)
+
+[![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-238636?style=for-the-badge&logo=github)](https://github.com/Sujay239?tab=repositories)
+
+[![Stars](https://img.shields.io/github/stars/Sujay239?style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/Sujay239?tab=repositories)
+
+</div>
+
+> 💡 I removed the unreliable GitHub Readme Stats API cards from this README.  
+> This prevents the `Maximum retries exceeded / PAT_1` error from appearing.
+
+---
+
+# 🚀 Featured Projects
+
+
+## 🔍 TruthLens AI
+
+> AI-powered application developed using modern full-stack technologies.
+
+<p>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-OPEN%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujay239/TruthLens-AI)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Sujay239/TruthLens-AI)
+![AI](https://img.shields.io/badge/AI-Powered-8A2BE2?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Application-238636?style=flat-square)
+
+</p>
+
+<details>
+<summary><b>📖 View Project Details</b></summary>
+
+<br>
+
+**Project:** TruthLens AI
+
+**Type:** AI / Full Stack Application
+
+**Repository:**  
+https://github.com/Sujay239/TruthLens-AI
+
+### Highlights
+
+- AI-powered application architecture
+- Modern TypeScript-based development
+- Full-stack implementation
+- Real-world application workflow
+- Scalable project structure
+
+### Quick Access
+
+[Open Repository →](https://github.com/Sujay239/TruthLens-AI)
+
+</details>
+
+---
+
+## 🏢 Office Management System
+
+> Full-stack office management application developed to manage business and organizational workflows.
+
+<p>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-OPEN%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujay239/Office-management-railway-deployment)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Sujay239/Office-management-railway-deployment)
+![Railway](https://img.shields.io/badge/Railway-Deployment-0B0D0E?style=flat-square&logo=railway)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-System-238636?style=flat-square)
+
+</p>
+
+<details>
+<summary><b>📖 View Project Details</b></summary>
+
+<br>
+
+**Project:** Office Management System
+
+**Type:** Full Stack Business Application
+
+### Features & Focus
+
+- Office workflow management
+- Full-stack architecture
+- Business operations management
+- Backend API integration
+- Database-driven workflows
+- Railway deployment
+
+### Repository
+
+[Open Repository →](https://github.com/Sujay239/Office-management-railway-deployment)
+
+</details>
+
+---
+
+## 💻 Auto Computation Office Management Frontend
+
+> Frontend application developed for an office management platform.
+
+<p>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-OPEN%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujay239/Auto-computaion-office-management-frontend)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Sujay239/Auto-computaion-office-management-frontend)
+![Frontend](https://img.shields.io/badge/Frontend-Application-61DAFB?style=flat-square)
+![Management](https://img.shields.io/badge/Office-Management-FF9800?style=flat-square)
+
+</p>
+
+<details>
+<summary><b>📖 View Project Details</b></summary>
+
+<br>
+
+**Project:** Auto Computation Office Management Frontend
+
+### Focus
+
+- Modern frontend architecture
+- Responsive user interface
+- Office workflow interfaces
+- API integration
+- Management dashboard development
+
+### Repository
+
+[Open Repository →](https://github.com/Sujay239/Auto-computaion-office-management-frontend)
+
+</details>
+
+---
+
+# 🏢 Organization Projects
+
+
+## 📦 Office Management Inventory
+
+> Inventory management solution developed as part of the Auto Computation ecosystem.
+
+<p>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-OFFICE%20MANAGEMENT%20INVENTORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/auto-computation/Office-management-inventory)
+
+![Inventory](https://img.shields.io/badge/Inventory-Management-FF9800?style=flat-square)
+![Business](https://img.shields.io/badge/Business-Application-238636?style=flat-square)
+![Organization](https://img.shields.io/badge/Auto%20Computation-Organization-6C63FF?style=flat-square)
+
+</p>
+
+<details>
+<summary><b>📦 Explore Office Management Inventory</b></summary>
+
+<br>
+
+### Project Overview
+
+A business inventory management application designed to manage office inventory and organizational resources.
+
+### Areas of Work
+
+- Inventory management
+- Office resource tracking
+- Business workflows
+- Management interfaces
+- Organization-level application development
+
+### Repository
+
+[![Open Repository](https://img.shields.io/badge/OPEN%20PROJECT%20ON%20GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/auto-computation/Office-management-inventory)
+
+</details>
+
+---
+
+## 🤖 NerveSpa Chatbot
+
+> AI chatbot application built for conversational and automation-based workflows.
+
+<p>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-NERVESPA%20CHATBOT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujay239/NerveSpa-Chatbot)
+
+![AI](https://img.shields.io/badge/AI-Chatbot-8A2BE2?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Enabled-EA4B71?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend-Integration-238636?style=flat-square)
+
+</p>
+
+<details>
+<summary><b>🤖 Explore NerveSpa Chatbot</b></summary>
+
+<br>
+
+### Project Overview
+
+AI-powered chatbot developed for automated conversational workflows.
+
+### Focus
+
+- AI chatbot development
+- API integration
+- Backend communication
+- Conversational flows
+- Automation
+- Real-world user interactions
+
+### Repository
+
+[![Open Repository](https://img.shields.io/badge/OPEN%20PROJECT%20ON%20GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/Sujay239/NerveSpa-Chatbot)
+
+</details>
+
+---
+
+## 📄 Invoice Management System
+
+> Billing and invoice management system developed under **Auto Computation**.
+
+<p>
+
+![Status](https://img.shields.io/badge/Repository-Private-D73A49?style=for-the-badge&logo=github)
+![Invoice](https://img.shields.io/badge/Invoice-Management-FF9800?style=flat-square)
+![Billing](https://img.shields.io/badge/Billing-Workflow-238636?style=flat-square)
+
+</p>
+
+<details>
+<summary><b>📄 View Project Information</b></summary>
+
+<br>
+
+### Responsibilities
+
+- Billing workflow implementation
+- Invoice management
+- Business logic
+- Backend integration
+- Data handling
+- Real-world office workflow implementation
+
+🔒 **Private repository — source code cannot be displayed publicly.**
+
+</details>
+
+---
+
+# 🧑‍💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sujaykumarkotal8520/)
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-View%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sujaykumarkotal1)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sujaykumarai55?tab=activity)
+
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-View%20Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32551688)
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Interested in building something together?
+
+I'm open to discussing interesting software development, full-stack, backend, automation and AI projects.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LET'S%20CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujay-kumar-kotal-5b9817282)
+
+[![Email](https://img.shields.io/badge/SEND%20ME%20AN%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sujaykumarkotal8520@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/EXPLORE%20MY%20CODE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujay239?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub profile
+
+**Explore my projects • Check out my repositories • Let's build something interesting**
+
+<br>
+
+![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-000000?style=flat-square&logo=markdown)
+![GitHub](https://img.shields.io/badge/Hosted%20on-GitHub-181717?style=flat-square&logo=github)
+
+</div>
